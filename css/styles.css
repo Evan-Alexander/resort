@@ -19,12 +19,15 @@ header {
   background-color: #50cec4;
 }
 
+header a {
+  color: black;
+}
+
 h1 {
   display: inline-block;
   padding-top: 1em;
   padding-bottom: 1em;
   padding-left: 1em;
-  color: #164554;
 }
 
 .main-nav {
