@@ -45,11 +45,16 @@ h1 {
   padding-right: 2em;
 }
 
+.main-nav li:hover {
+  text-shadow: 2px 2px 20px #1d5958;
+}
+
 footer {
   width: 100%;
   height: 3em;
   padding-top: 1em;
   text-align: center;
+  margin: 0 auto;
   background-color: #50cec4;
   position: absolute;
   bottom: 0;
