@@ -4,8 +4,14 @@
   text-decoration: none;
 }
 
+body {
+  background-image: url(../img/hotel.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
 header {
-  background-color: #0e90b7
+  background-color: #50cec4
 }
 
 h1 {
