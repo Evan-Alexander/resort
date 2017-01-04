@@ -4,6 +4,11 @@
   text-decoration: none;
 }
 
+html,
+body {
+  height: 100%;
+}
+
 body {
   background-image: url(../img/hotel.jpg);
   background-size: cover;
