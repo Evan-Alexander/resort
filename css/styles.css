@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+}
+
+header {
+  background-color: #0e90b7
+}
+
+h1 {
+  display: inline-block;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  padding-left: 1em;
+  color: #164554;
+}
+
+.main-nav {
+  display: inline-block;
+  padding-left: 1em;
+  padding-top: 2.5em;
+  list-style: none;
+  float: right;
+  font-size: 1.25em;
+}
+
+.main-nav li {
+  display: inline;
+  padding-left: 2em;
+  padding-right: 2em;
+}
